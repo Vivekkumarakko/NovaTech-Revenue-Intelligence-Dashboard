@@ -1,7 +1,7 @@
 # NovaTech Q Exploration Log
 
 **Project:** NovaTech Revenue Intelligence Dashboard  
-**Student:** Kasmya Bhatia  
+**Student:** Vivek Kumar  
 **Platform:** Amazon QuickSight / Quick Suite  
 **Q&A Topic:** NovaTech Revenue Intelligence  
 
