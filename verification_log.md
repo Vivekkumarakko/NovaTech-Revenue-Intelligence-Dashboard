@@ -1,7 +1,7 @@
 # NovaTech Data Verification Log
 
 **Project:** NovaTech Revenue Intelligence Dashboard  
-**Student:** Kasmya Bhatia  
+**Student:** Vivek Kumar 
 **Platform:** Amazon QuickSight / Quick Suite  
 **Date:** September 2026  
 
